@@ -5,7 +5,7 @@
 A [Go](http://golang.org) port of the Ruby library [terminal-tables](https://github.com/visionmedia/terminal-table) 
 for fast and simple ASCII table generation.
 
-> This project is a fork of the go package developed by Apcera which has been removed from the Apcera github organization.
+> This project is a fork of the golang package developed by Apcera which has been removed from the Apcera github organization.
 
 ## Installation
 
