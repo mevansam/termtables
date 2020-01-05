@@ -1,0 +1,28 @@
+.*
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.data
+
+# Temporary and Build folders
+build/
+dist/
+tmp/
+
+# Packr generated go source for embedded static content
+*-packr.go
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Delv debug artifact
+debug
+# Debug main for experiments
+test/main.go
